@@ -31,11 +31,11 @@ progress={80}
 />
 <img src= {log} className= "App-logo" alt= "logo" width= "100" height= "100"/>
 <Favorites
-skill="food 3"
+skill="Kichuri"
 progress={50}
 />
 <Favorites
-skill="food 4"
+skill="Chicken Noodles"
 progress={25}
 />
 
