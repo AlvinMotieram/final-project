@@ -23,23 +23,23 @@ return(
 <h3>Most Popular Dishes</h3>
 <Favorites
 skill="Eggplant Bhaji"
-progress={100}
+progress={70}
 />
 <img src= {logo} className= "App-logo" alt= "logo" width= "100" height= "100"/>
 
 <Favorites
 skill="Fuchka"
-progress={80}
+progress={94}
 />
 <img src= {log} className= "App-logo" alt= "logo" width= "100" height= "100"/>
 <Favorites
 skill="Kichuri"
-progress={50}
+progress={100}
 />
 <img src= {bag} className= "App-logo" alt= "logo" width= "100" height= "100"/>
 <Favorites
 skill="Chicken Noodles"
-progress={25}
+progress={98}
 />
 <img src= {meat} className= "App-logo" alt= "logo" width= "100" height= "100"/>
 
