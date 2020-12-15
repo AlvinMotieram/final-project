@@ -20,13 +20,13 @@ return(
 
 <h3>Most Popular Dishes</h3>
 <Favorites
-skill="food 1"
+skill="Eggplant Bhaji"
 progress={100}
 />
 <img src= {logo} className= "App-logo" alt= "logo" width= "100" height= "100"/>
 
 <Favorites
-skill="food 2"
+skill="Fuchka"
 progress={80}
 />
 <img src= {log} className= "App-logo" alt= "logo" width= "100" height= "100"/>
