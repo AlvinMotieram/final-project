@@ -27,7 +27,7 @@ return(
 </a>
 
 {/* Instagram */}
-<a href="http://instagram.com" rel="noopener noreferrer" target="_blank">
+<a href="https://www.instagram.com/shelleysbanglakitchen/" rel="noopener noreferrer" target="_blank">
 <i className="fa fa-instagram" aria-hidden="true" />
 </a>
 
