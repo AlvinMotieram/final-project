@@ -19,21 +19,21 @@ return(
 <ListItem>
 <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
 <i className="fa fa-phone-square" aria-hidden="true"/>
-(123) 456-7890
+(347)-749-8369
 </ListItemContent>
 </ListItem>
 
 <ListItem>
 <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
 <i className="fa fa-envelope" aria-hidden="true"/>
-email
+zaheen500@yahoo.com
 </ListItemContent>
 </ListItem>
 
 <ListItem>
 <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
 <i className="fa fa-address-card" aria-hidden="true"/>
-address
+1034 3rd Avenue New York, NY , 10046
 </ListItemContent>
 </ListItem>
 

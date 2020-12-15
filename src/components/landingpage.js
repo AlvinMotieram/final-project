@@ -17,7 +17,7 @@ return(
 
 <hr/>
 
-<p>"Description of food"</p>
+<p>"WE GOT EVERYTHING FROM SPICY TO HELLAA SPICY!!!"</p>
 
 <div className="social-links">
 
