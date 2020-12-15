@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import logo from './IMG_4783.JPG';
 import { Grid, Cell } from 'react-mdl';
 import Favorites from './favorites';
 
@@ -21,6 +22,8 @@ return(
 skill="food 1"
 progress={100}
 />
+<img src= {logo} className= "App-logo" alt= "logo" width= "150" height= "150"/>
+
 <Favorites
 skill="food 2"
 progress={80}
