@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import logo from './IMG_4783.JPG';
 import log from './IMG_4781.JPG';
 import bag from './IMG_4787.JPG';
+import meat from './IMG_4788.JPG';
 import { Grid, Cell } from 'react-mdl';
 import Favorites from './favorites';
 
@@ -40,6 +41,7 @@ progress={50}
 skill="Chicken Noodles"
 progress={25}
 />
+<img src= {meat} className= "App-logo" alt= "logo" width= "100" height= "100"/>
 
 
 </Cell>
