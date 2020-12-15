@@ -1,6 +1,9 @@
 import React, { Component } from 'react';
 import { Grid, Cell } from 'react-mdl';
-
+import logo from './IMG_4783.JPG';
+import log from './IMG_4781.JPG';
+import bag from './IMG_4787.JPG';
+import meat from './IMG_4788.JPG';
 
 class Landing extends Component {
 render() {
@@ -30,6 +33,11 @@ return(
 <a href="https://www.instagram.com/shelleysbanglakitchen/" rel="noopener noreferrer" target="_blank">
 <i className="fa fa-instagram" aria-hidden="true" />
 </a>
+
+<img src= {logo} className= "App-logo" alt= "logo" width= "100" height= "100"/>
+<img src= {log} className= "App-logo" alt= "logo" width= "100" height= "100"/>
+<img src= {bag} className= "App-logo" alt= "logo" width= "100" height= "100"/>
+<img src= {meat} className= "App-logo" alt= "logo" width= "100" height= "100"/>
 
 </div>
 </div>
